@@ -1,5 +1,5 @@
 # ocean-plastic-contributor-analysis
-River Plastic Classifier =========================
+River Plastic Classifier
 
 This project uses supervised machine learning to classify rivers based on their plastic contribution to the ocean. It leverages real-world data and a Random Forest model to identify which rivers are high-risk contributors to marine plastic pollution.
 
